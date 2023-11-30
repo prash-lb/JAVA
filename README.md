@@ -1,4 +1,1 @@
-# Project in java
-
-- Patchwork
-- Open World
+# Open world
